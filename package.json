@@ -40,6 +40,7 @@
   "devDependencies": {
     "underscore": "~1.4.3",
     "expect.js": "~0.2.0",
+    "sinon": "^1.10.3",
     "mocha": "~1.8.1"
   },
   "dependencies": {
